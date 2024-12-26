@@ -5,12 +5,12 @@
     {
       "type": "umapyoi:umasoul",
       "request": {
-        "identifier": "umapyoi:special_week"
+        "ranking": ["r"]
       }
     },
     {
-      "item": "minecraft:clock"
+      "item": "minecraft:salmon"
     }
   ],
-  "umasoul": "umapyoi:special_week_sp"
+  "umasoul": "umapyoi_addon:cloned_yakuza"
 }
