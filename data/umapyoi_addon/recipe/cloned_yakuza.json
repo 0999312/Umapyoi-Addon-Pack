@@ -1,0 +1,16 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["r"]
+      }
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "umasoul": "umapyoi:cloned_yakuza"
+}

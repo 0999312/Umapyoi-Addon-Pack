@@ -1,0 +1,25 @@
+{
+  "identifier": "umapyoi:cloned_yakuza",
+  "maxProperty": [
+    18,
+    18,
+    18,
+    18,
+    18
+  ],
+  "property": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "propertyRate": [
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

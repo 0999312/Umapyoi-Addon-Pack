@@ -1,0 +1,34 @@
+modLoader="lowcodefml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="umapyoi_addon"
+version="1.0.0"
+displayName="Umapyoi Addon Pack"
+authors="Tracen Academy Minecraft Group"
+description='''
+The official addon pack for Umapyoi mod.
+'''
+
+[[dependencies.umapyoi_addon]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.umapyoi_addon]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.umapyoi_addon]]
+    modId="umapyoi"
+    mandatory=true
+    versionRange="[1.7.38-1.20.1,)"
+    ordering="NONE"
+    side="BOTH"
+
