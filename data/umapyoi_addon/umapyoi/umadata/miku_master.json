@@ -1,5 +1,5 @@
 {
-  "identifier": "umapyoi_addon:cloned_yakuza",
+  "identifier": "umapyoi_addon:miku_master",
   "maxProperty": [
     18,
     18,
@@ -15,11 +15,11 @@
     1
   ],
   "propertyRate": [
-    5,
-    5,
-    5,
-    5,
-    5
+    10,
+    20,
+    10,
+    0,
+    0
   ],
   "uniqueSkill": "umapyoi:basic_pace"
 }
