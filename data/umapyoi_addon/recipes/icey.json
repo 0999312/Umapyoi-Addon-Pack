@@ -1,0 +1,16 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["ssr"]
+      }
+    },
+    {
+      "tag": "minecraft:ice"
+    }
+  ],
+  "umasoul": "umapyoi_addon:icey"
+}

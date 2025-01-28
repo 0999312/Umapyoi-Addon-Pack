@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "tag": "forge:dyes/black"
+    },
+    {
+      "item": "minecraft:leather_leggings"
+    }
+  ],
+  "umasoul": "umapyoi_addon:g_t_karine"
+}

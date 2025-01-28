@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "tag": "forge:gems/emerald"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "umasoul": "umapyoi_addon:tamiyama_komeko"
+}

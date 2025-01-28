@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "tag": "forge:raw_beef"
+    },
+    {
+      "tag": "forge:bones"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    }
+  ],
+  "umasoul": "umapyoi_addon:miku_master"
+}
