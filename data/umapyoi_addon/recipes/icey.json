@@ -9,7 +9,7 @@
       }
     },
     {
-      "tag": "minecraft:ice"
+      "item": "minecraft:ice"
     }
   ],
   "umasoul": "umapyoi_addon:icey"

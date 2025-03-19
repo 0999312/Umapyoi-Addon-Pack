@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:ochre_froglight"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "tag": "forge:glass_panes"
+    }
+  ],
+  "umasoul": "umapyoi_addon:zetton"
+}
