@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "umapyoi_addon",
+  "version": "1.0.7",
+  "name": "Umapyoi Addon Pack",
+  "description": "The official addon pack for Umapyoi mod.",
+  "authors": [
+    "Tracen Academy Minecraft Group"
+  ],
+  "license": "MIT",
+  "icon": "pack.png",
+  "environment": "*",
+  "entrypoints": {}
+}
