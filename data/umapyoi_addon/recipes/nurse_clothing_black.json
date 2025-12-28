@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_costume",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/black"
+    },
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "umapyoi:jewel"
+    }
+  ],
+  "cosmetic": "umapyoi_addon:nurse_clothing_black"
+}

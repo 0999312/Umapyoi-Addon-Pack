@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="umapyoi_addon"
-version="1.0.7"
+version="1.1.13-1.20.1"
 displayName="Umapyoi Addon Pack"
 authors="Tracen Academy Minecraft Group"
 description='''
@@ -28,7 +28,7 @@ The official addon pack for Umapyoi mod.
 [[dependencies.umapyoi_addon]]
     modId="umapyoi"
     mandatory=true
-    versionRange="[1.8.46-1.20.1,)"
+    versionRange="[1.11.65-1.20.1,)"
     ordering="AFTER"
     side="BOTH"
 

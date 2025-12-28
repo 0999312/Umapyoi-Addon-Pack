@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_costume",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:jack_o_lantern"
+    },
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:cauldron"
+    },
+    {
+      "item": "umapyoi:jewel"
+    }
+  ],
+  "cosmetic": "umapyoi_addon:halloween_witch"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi_addon:tamiyama_komeko"
+      }
+    },
+    {
+      "tag": "forge:gunpowder"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "tag": "minecraft:creeper_igniters"
+    }
+  ],
+  "umasoul": "umapyoi_addon:tamiyama_komeko_creeper"
+}

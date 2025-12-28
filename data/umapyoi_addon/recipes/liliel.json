@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi:nice_nature"
+      }
+    },
+    {
+      "tag": "forge:feathers"
+    },
+    {
+      "item": "minecraft:leather_chestplate"
+    },
+    {
+      "tag": "forge:dyes/white"
+    }
+  ],
+  "umasoul": "umapyoi_addon:liliel"
+}

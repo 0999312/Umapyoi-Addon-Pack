@@ -1,0 +1,11 @@
+{
+  "identifier": "umapyoi_addon:tamiyama_komeko",
+  "propertyRate": [
+    25,
+    10,
+    15,
+    5,
+    10
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

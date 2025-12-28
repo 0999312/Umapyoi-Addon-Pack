@@ -1,0 +1,25 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    },
+    {
+      "tag": "forge:storage_blocks/gold"
+    },
+    {
+      "item": "minecraft:writable_book"
+    },
+    {
+      "tag": "forge:ingots/netherite"
+    }
+  ],
+  "umasoul": "umapyoi_addon:gozyu_unicorn"
+}

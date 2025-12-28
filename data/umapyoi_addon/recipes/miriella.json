@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi:seiun_sky"
+      }
+    },
+    {
+      "tag": "forge:feathers"
+    },
+    {
+      "item": "minecraft:leather_chestplate"
+    },
+    {
+      "tag": "forge:dyes/black"
+    }
+  ],
+  "umasoul": "umapyoi_addon:miriella"
+}

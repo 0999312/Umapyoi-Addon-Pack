@@ -1,0 +1,11 @@
+{
+  "identifier": "umapyoi_addon:gozyu_unicorn",
+  "propertyRate": [
+    10,
+    5,
+    10,
+    5,
+    20
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

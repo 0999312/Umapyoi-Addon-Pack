@@ -1,0 +1,25 @@
+{
+  "type": "umapyoi:shapeless_costume",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "tag": "forge:dyes/black"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    },
+    {
+      "tag": "forge:dyes/red"
+    },
+    {
+      "item": "umapyoi:jewel"
+    }
+  ],
+  "cosmetic": "umapyoi_addon:chinese_kyoshi"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "umapyoi_addon:item/nurse_clothing_white"
+  }
+}
