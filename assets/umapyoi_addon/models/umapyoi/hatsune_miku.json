@@ -123,7 +123,7 @@
 				{
 					"name": "long_hair",
 					"parent": "head",
-					"pivot": [0, 0, 0]
+					"pivot": [-7.25, 24.75, 7.5]
 				},
 				{
 					"name": "hair_right",
@@ -1693,7 +1693,10 @@
 							"uv": {
 								"north": {"uv": [26, 98], "uv_size": [6, 1]},
 								"east": {"uv": [26, 98], "uv_size": [1, 1]},
-								"south": {"uv": [33, 98], "uv_size": [-6, 1]}
+								"south": {"uv": [33, 98], "uv_size": [-6, 1]},
+								"west": {"uv": [27, 98], "uv_size": [0, 0]},
+								"up": {"uv": [26, 98], "uv_size": [1, 0]},
+								"down": {"uv": [27, 98], "uv_size": [1, 0]}
 							}
 						},
 						{
@@ -1704,7 +1707,10 @@
 							"uv": {
 								"north": {"uv": [26, 98], "uv_size": [6, 1]},
 								"east": {"uv": [26, 98], "uv_size": [1, 1]},
-								"south": {"uv": [33, 98], "uv_size": [-6, 1]}
+								"south": {"uv": [33, 98], "uv_size": [-6, 1]},
+								"west": {"uv": [27, 98], "uv_size": [0, 0]},
+								"up": {"uv": [26, 98], "uv_size": [1, 0]},
+								"down": {"uv": [27, 98], "uv_size": [1, 0]}
 							}
 						},
 						{
