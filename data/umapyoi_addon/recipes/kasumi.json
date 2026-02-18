@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:spyglass"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "umasoul": "umapyoi_addon:kasumi"
+}

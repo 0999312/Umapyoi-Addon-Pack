@@ -564,7 +564,7 @@
 				{
 					"name": "long_hair",
 					"parent": "head",
-					"pivot": [0, 0, 0]
+					"pivot": [-7.25, 24.75, 7.5]
 				},
 				{
 					"name": "hair_right",

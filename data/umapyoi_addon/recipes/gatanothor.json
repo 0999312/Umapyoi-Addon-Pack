@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi:manhattan_cafe"
+      }
+    },
+    {
+      "tag": "forge:crops/cocoa_bean"
+    },
+    {
+      "item": "minecraft:nautilus_shell"
+    }
+  ],
+  "umasoul": "umapyoi_addon:gatanothor"
+}

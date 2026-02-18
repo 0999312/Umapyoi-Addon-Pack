@@ -1,11 +1,8 @@
 {
   "identifier": "umapyoi_addon:zhui_feng",
   "propertyRate": [
-    5,
-    5,
-    5,
-    5,
-    5
+    15,10,5,0,0
   ],
+  "ranking": "sr",
   "uniqueSkill": "umapyoi:basic_pace"
 }

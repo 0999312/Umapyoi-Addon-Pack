@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi:mejiro_ramonu"
+      }
+    },
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:clock"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "umasoul": "umapyoi_addon:moria_luluka"
+}

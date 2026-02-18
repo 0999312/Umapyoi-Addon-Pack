@@ -1,11 +1,7 @@
 {
   "identifier": "umapyoi_addon:gatanothor",
   "propertyRate": [
-    5,
-    5,
-    5,
-    5,
-    5
+    5,10,20,5,5
   ],
   "uniqueSkill": "umapyoi:basic_pace"
 }

@@ -1,11 +1,7 @@
 {
   "identifier": "umapyoi_addon:kasumi",
   "propertyRate": [
-    5,
-    5,
-    5,
-    5,
-    5
+    10,5,5,10,20
   ],
   "uniqueSkill": "umapyoi:basic_pace"
 }

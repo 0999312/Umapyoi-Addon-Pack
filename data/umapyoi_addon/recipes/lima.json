@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi:tm_opera_o"
+      }
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "tag": "forge:leathers"
+    }
+  ],
+  "umasoul": "umapyoi_addon:lima"
+}

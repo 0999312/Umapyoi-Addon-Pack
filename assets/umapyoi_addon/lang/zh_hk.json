@@ -37,5 +37,15 @@
   "item.umapyoi_addon.chinese_kyoshi.name": "中式殭屍裝",
   "item.umapyoi_addon.nurse_clothing_white.name": "白色護士裝",
   "item.umapyoi_addon.nurse_clothing_black.name": "黑色護士裝",
-  "item.umapyoi_addon.halloween_witch.name": "萬聖節女巫裝"
+  "item.umapyoi_addon.halloween_witch.name": "萬聖節女巫裝",
+  
+  "umadata.umapyoi_addon.gatanothor": "加坦傑厄",
+  "umadata.umapyoi_addon.kasumi": "香澄",
+  "umadata.umapyoi_addon.moria_luluka": "[Cure Arcana·Shadow] 森亞琉琉歌",
+  "umadata.umapyoi_addon.lima": "莉瑪",
+  "umadata.umapyoi_addon.tenma_ranger": "天馬連者",
+  "umadata.umapyoi_addon.zhui_feng": "追風",
+  "umadata.umapyoi_addon.shifang_mingliang": "十方明亮",
+  "umadata.umapyoi_addon.indramon": "因達羅獸",
+  "umadata.umapyoi_addon.shima_unimon": "獨角斑馬獸"
 }

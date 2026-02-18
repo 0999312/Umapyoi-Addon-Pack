@@ -1,11 +1,8 @@
 {
   "identifier": "umapyoi_addon:indramon",
   "propertyRate": [
-    5,
-    5,
-    5,
-    5,
-    5
+    10,5,10,0,5
   ],
+  "ranking": "sr",
   "uniqueSkill": "umapyoi:basic_pace"
 }
