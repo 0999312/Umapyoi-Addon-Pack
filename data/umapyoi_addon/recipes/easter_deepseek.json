@@ -1,0 +1,13 @@
+{
+    "type": "umapyoi:shapeless_card",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "umapyoi:support_card"
+        },
+        {
+            "tag": "minecraft:fishes"
+        }
+    ],
+    "card": "umapyoi_addon:easter_deepseek"
+}

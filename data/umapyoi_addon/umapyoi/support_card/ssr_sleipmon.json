@@ -1,0 +1,22 @@
+{
+  "type": "friendship",
+  "max_damage": 5,
+  "ranking": "ssr",
+  "supporters": [
+    "umapyoi_addon:sleipmon"
+  ],
+  "supports": [
+    {
+      "level": 5,
+      "support": "umapyoi:strength_support"
+    },
+    {
+      "level": 3,
+      "support": "umapyoi:stamina_support"
+    },
+    {
+      "level": 3,
+      "support": "umapyoi:actionpoint_support"
+    }
+  ]
+}

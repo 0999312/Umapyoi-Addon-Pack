@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:storage_blocks/gold",
+    "#c:gold_blocks",
+    "#c:storage_blocks/gold",
+    "minecraft:gold_block"
+  ]
+}

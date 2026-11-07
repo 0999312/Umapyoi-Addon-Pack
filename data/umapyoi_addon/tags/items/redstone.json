@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:dusts/redstone",
+    "#c:redstone_dusts",
+    "minecraft:redstone"
+  ]
+}

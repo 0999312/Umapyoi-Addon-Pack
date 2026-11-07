@@ -1,0 +1,19 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "identifier": "umapyoi_addon:moria_luluka"
+      }
+    },
+    {
+      "item": "minecraft:white_tulip"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "umasoul": "umapyoi_addon:moria_luluka_cure_arcana"
+}
