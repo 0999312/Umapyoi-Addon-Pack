@@ -30,3 +30,4 @@ jobs:
         with:
           name: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
           path: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
+          archive: false
