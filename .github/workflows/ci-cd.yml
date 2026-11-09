@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Read version
         run: |
@@ -26,7 +26,7 @@ jobs:
           find . -maxdepth 1 ! -name "." ! -name ".*" ! -name "*.md" | zip -r Umapyoi-Addon-Pack-${{ env.VERSION }}.jar -@
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
           path: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
