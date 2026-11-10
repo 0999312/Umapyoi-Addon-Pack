@@ -9,10 +9,10 @@
       }
     },
     {
-      "tag": "forge:storage_blocks/lapis"
+      "tag": "umapyoi_addon:lapis_block"
     },
     {
-      "tag": "forge:dyes/blue"
+      "tag": "umapyoi_addon:dyes/blue"
     },
     {
       "item": "minecraft:leather_chestplate"

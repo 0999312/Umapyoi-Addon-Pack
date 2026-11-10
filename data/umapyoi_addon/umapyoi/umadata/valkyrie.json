@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi_addon:valkyrie",
+  "propertyRate": [
+    20,
+    15,
+    10,
+    5,
+    5
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "sr"
+}

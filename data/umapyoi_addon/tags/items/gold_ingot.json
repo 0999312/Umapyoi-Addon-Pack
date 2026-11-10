@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/gold",
+    "#c:gold_ingots",
+    "minecraft:gold_ingot"
+  ]
+}

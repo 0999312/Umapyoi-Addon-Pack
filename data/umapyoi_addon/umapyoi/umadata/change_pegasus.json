@@ -1,0 +1,11 @@
+{
+  "identifier": "umapyoi_addon:change_pegasus",
+  "propertyRate": [
+    5,
+    5,
+    10,
+    0,
+    5
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

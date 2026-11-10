@@ -1,0 +1,18 @@
+{
+  "type": "friendship",
+  "max_damage": 3,
+  "ranking": "ssr",
+  "supporters": [
+    "umapyoi_addon:horse_orphnoch"
+  ],
+  "supports": [
+    {
+      "level": 4,
+      "support": "umapyoi:strength_support"
+    },
+    {
+      "level": 3,
+      "support": "umapyoi:guts_support"
+    }
+  ]
+}

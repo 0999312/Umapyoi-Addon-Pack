@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#c:crops/cocoa_bean",
+    "#forge:crops/cocoa_bean"
+  ]
+}

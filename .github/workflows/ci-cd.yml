@@ -1,0 +1,33 @@
+name: Build Umapyoi Addon Pack
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Read version
+        run: |
+          python3 -c '
+          import tomllib, os
+          with open("META-INF/mods.toml", "rb") as f:
+            data = tomllib.load(f)
+
+            version = data["mods"][0]["version"].split("-")[0]
+            with open(os.environ["GITHUB_ENV"], "a") as env_file:
+              env_file.write(f"VERSION={version}\n")
+          '
+
+      - name: Build
+        run: |
+          find . -maxdepth 1 ! -name "." ! -name ".*" ! -name "*.md" | zip -r Umapyoi-Addon-Pack-${{ env.VERSION }}.jar -@
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
+          path: Umapyoi-Addon-Pack-${{ env.VERSION }}.jar
+          archive: false

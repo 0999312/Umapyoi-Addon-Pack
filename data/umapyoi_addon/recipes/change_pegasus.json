@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:crossbow"
+    },
+    {
+      "tag": "umapyoi_addon:dyes/blue"
+    },
+    {
+      "item": "minecraft:leather_chestplate"
+    }
+  ],
+  "umasoul": "umapyoi_addon:change_pegasus"
+}

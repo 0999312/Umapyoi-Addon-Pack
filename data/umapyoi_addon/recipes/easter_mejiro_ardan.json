@@ -1,0 +1,13 @@
+{
+    "type": "umapyoi:shapeless_card",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "umapyoi:support_card"
+        },
+        {
+            "tag": "umapyoi_addon:cooked_chicken"
+        }
+    ],
+    "card": "umapyoi_addon:easter_mejiro_ardan"
+}

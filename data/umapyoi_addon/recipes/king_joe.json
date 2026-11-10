@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "item": "minecraft:observer"
+    },
+    {
+      "tag": "umapyoi_addon:redstone"
+    },
+    {
+      "tag": "umapyoi_addon:gold_block"
+    }
+  ],
+  "umasoul": "umapyoi_addon:king_joe"
+}

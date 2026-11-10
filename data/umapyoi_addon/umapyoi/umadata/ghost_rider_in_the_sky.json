@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi_addon:ghost_rider_in_the_sky",
+  "propertyRate": [
+    20,
+    15,
+    10,
+    0,
+    10
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "sr"
+}
