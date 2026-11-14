@@ -301,8 +301,13 @@
 					]
 				},
 				{
-					"name": "long_hair2",
+					"name": "long_hair",
 					"parent": "head",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "long_hair2",
+					"parent": "long_hair",
 					"pivot": [0, 31, 1]
 				},
 				{
