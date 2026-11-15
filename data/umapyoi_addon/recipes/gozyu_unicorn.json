@@ -12,13 +12,13 @@
       "item": "minecraft:diamond_sword"
     },
     {
-      "tag": "forge:storage_blocks/gold"
+      "tag": "umapyoi_addon:gold_block"
     },
     {
       "item": "minecraft:writable_book"
     },
     {
-      "tag": "forge:ingots/netherite"
+      "tag": "umapyoi_addon:netherite_ingot"
     }
   ],
   "umasoul": "umapyoi_addon:gozyu_unicorn"

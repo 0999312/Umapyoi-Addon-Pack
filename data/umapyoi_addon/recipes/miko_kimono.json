@@ -1,0 +1,16 @@
+{
+  "type": "umapyoi:shapeless_costume",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "minecraft:cherry_sapling"
+    },
+    {
+      "item": "umapyoi:jewel"
+    }
+  ],
+  "cosmetic": "umapyoi_addon:miko_kimono"
+}

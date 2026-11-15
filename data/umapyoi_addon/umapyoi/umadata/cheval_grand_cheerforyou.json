@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi:cheval_grand",
+  "propertyRate": [
+    15,
+    0,
+    20,
+    10,
+    10
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "ssr"
+}

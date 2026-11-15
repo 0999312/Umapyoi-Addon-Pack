@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi_addon:hey_ya",
+  "propertyRate": [
+    10,
+    5,
+    0,
+    5,
+    15
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "sr"
+}

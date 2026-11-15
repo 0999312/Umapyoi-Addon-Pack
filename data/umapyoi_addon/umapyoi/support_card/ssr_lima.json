@@ -1,0 +1,22 @@
+{
+  "type": "group",
+  "max_damage": 2,
+  "ranking": "ssr",
+  "supporters": [
+    "umapyoi_addon:lima"
+  ],
+  "supports": [
+    {
+      "level": 1,
+      "support": "umapyoi:speed_support"
+    },
+    {
+      "level": 2,
+      "support": "umapyoi:strength_support"
+    },
+    {
+      "level": 1,
+      "support": "umapyoi:wisdom_support"
+    }
+  ]
+}

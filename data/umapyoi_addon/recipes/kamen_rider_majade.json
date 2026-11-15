@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_umasoul",
+  "category": "misc",
+  "ingredients": [
+    {
+      "type": "umapyoi:umasoul",
+      "request": {
+        "ranking": ["sr"]
+      }
+    },
+    {
+      "tag": "umapyoi_addon:diamond"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "umapyoi_addon:orange_glass"
+    }
+  ],
+  "umasoul": "umapyoi_addon:kamen_rider_majade"
+}

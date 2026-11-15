@@ -1,0 +1,22 @@
+{
+  "type": "umapyoi:shapeless_costume",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "umapyoi_addon:dyes/black"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "tag": "umapyoi_addon:string"
+    },
+    {
+      "item": "minecraft:rabbit_hide"
+    },
+    {
+      "item": "umapyoi:jewel"
+    }
+  ],
+  "cosmetic": "umapyoi_addon:bunny_girl_2"
+}

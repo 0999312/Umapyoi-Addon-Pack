@@ -1,0 +1,11 @@
+{
+  "identifier": "umapyoi_addon:moria_luluka_cure_arcana",
+  "propertyRate": [
+    15,
+    10,
+    15,
+    10,
+    10
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

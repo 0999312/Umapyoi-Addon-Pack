@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi_addon:slow_dancer",
+  "propertyRate": [
+    15,
+    20,
+    10,
+    10,
+    5
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "sr"
+}

@@ -1,0 +1,12 @@
+{
+  "identifier": "umapyoi_addon:pegasmon_x.json",
+  "propertyRate": [
+    15,
+    10,
+    0,
+    5,
+    0
+  ],
+  "uniqueSkill": "umapyoi:basic_pace",
+  "ranking": "ssr"
+}

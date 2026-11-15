@@ -1,0 +1,22 @@
+{
+  "type": "friendship",
+  "max_damage": 4,
+  "ranking": "easter_egg",
+  "supporters": [
+    "umapyoi_addon:deepseek"
+  ],
+  "supports": [
+    {
+      "level": 2,
+      "support": "umapyoi:speed_support"
+    },
+    {
+      "level": 1,
+      "support": "umapyoi:strength_support"
+    },
+    {
+      "level": 2,
+      "support": "umapyoi:stamina_support"
+    }
+  ]
+}

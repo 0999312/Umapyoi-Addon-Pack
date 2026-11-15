@@ -1,0 +1,11 @@
+{
+  "identifier": "umapyoi_addon:king_joe",
+  "propertyRate": [
+    15,
+    10,
+    20,
+    0,
+    10
+  ],
+  "uniqueSkill": "umapyoi:basic_pace"
+}

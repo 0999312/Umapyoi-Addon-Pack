@@ -1,0 +1,18 @@
+{
+  "type": "wisdom",
+  "max_damage": 4,
+  "ranking": "ssr",
+  "supporters": [
+    "umapyoi_addon:gozyu_unicorn"
+  ],
+  "supports": [
+    {
+      "level": 2,
+      "support": "umapyoi:guts_support"
+    },
+    {
+      "level": 3,
+      "support": "umapyoi:actionpoint_support"
+    }
+  ]
+}
