@@ -9,13 +9,13 @@
       "tag": "minecraft:wool"
     },
     {
-      "tag": "forge:dyes/black"
+      "tag": "umapyoi_addon:dyes/black"
     },
     {
-      "tag": "forge:dyes/yellow"
+      "tag": "umapyoi_addon:dyes/yellow"
     },
     {
-      "tag": "forge:dyes/red"
+      "tag": "umapyoi_addon:dyes/red"
     },
     {
       "item": "umapyoi:jewel"

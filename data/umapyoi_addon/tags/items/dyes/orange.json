@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "#forge:dyes/orange",
+    "#c:dyes/orange",
     "#c:orange_dyes"
   ]
 }

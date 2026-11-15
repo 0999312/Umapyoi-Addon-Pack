@@ -3,6 +3,7 @@
   "values": [
     "#forge:ingots/gold",
     "#c:gold_ingots",
+    "#c:ingots/gold",
     "minecraft:gold_ingot"
   ]
 }

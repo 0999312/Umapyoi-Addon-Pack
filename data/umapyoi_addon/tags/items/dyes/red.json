@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "#forge:dyes/red",
+    "#c:dyes/red",
     "#c:red_dyes"
   ]
 }

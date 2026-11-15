@@ -23,7 +23,7 @@ jobs:
 
       - name: Build
         run: |
-          find . -maxdepth 1 ! -name "." ! -name ".*" ! -name "*.md" | zip -r Umapyoi-Addon-Pack-${{ env.VERSION }}.jar -@
+          find . -maxdepth 1 ! -name "." ! -name ".*" ! -name "*.md" ! -name "*.py" | zip -r Umapyoi-Addon-Pack-${{ env.VERSION }}.jar -@
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v7

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:dyes/yellow",
+    "#c:dyes/yellow",
+    "#c:yellow_dyes"
+  ]
+}

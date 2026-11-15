@@ -9,13 +9,13 @@
       }
     },
     {
-      "tag": "forge:feathers"
+      "tag": "umapyoi_addon:feathers"
     },
     {
       "item": "minecraft:leather_chestplate"
     },
     {
-      "tag": "forge:dyes/black"
+      "tag": "umapyoi_addon:dyes/black"
     }
   ],
   "umasoul": "umapyoi_addon:miriella"

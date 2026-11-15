@@ -3,7 +3,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:dyes/white"
+      "tag": "umapyoi_addon:dyes/white"
     },
     {
       "tag": "minecraft:wool"

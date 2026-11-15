@@ -3,6 +3,7 @@
   "values": [
     "#forge:ingots/netherite",
     "#c:netherite_ingots",
+    "#c:ingots/netherite",
     "minecraft:netherite_ingot"
   ]
 }

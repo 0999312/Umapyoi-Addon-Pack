@@ -3,10 +3,10 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:dyes/green"
+      "tag": "umapyoi_addon:dyes/green"
     },
     {
-      "tag": "forge:gunpowder"
+      "tag": "umapyoi_addon:gunpowders"
     },
     {
       "item": "umapyoi:uma_costume"

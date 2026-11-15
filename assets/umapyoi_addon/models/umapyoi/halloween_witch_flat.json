@@ -13,11 +13,16 @@
 			"bones": [
 				{
 					"name": "hat",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "b51",
+					"parent": "hat",
 					"pivot": [0, 26.2, -4.07608]
 				},
 				{
 					"name": "hat_down",
-					"parent": "hat",
+					"parent": "b51",
 					"pivot": [0, 30.5, 0],
 					"cubes": [
 						{
@@ -75,7 +80,7 @@
 				},
 				{
 					"name": "hat_up",
-					"parent": "hat",
+					"parent": "b51",
 					"pivot": [0, 29.5, 0],
 					"cubes": [
 						{
