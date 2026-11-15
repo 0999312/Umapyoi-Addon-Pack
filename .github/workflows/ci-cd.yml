@@ -1,4 +1,4 @@
-name: Build Umapyoi Addon Pack
+name: Build Umapyoi Addon Pack on 1.20
 on:
   workflow_dispatch:
 

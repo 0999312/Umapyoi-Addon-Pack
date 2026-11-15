@@ -33,7 +33,7 @@ with tempfile.TemporaryDirectory() as tmp_dir:
                                 v["modId"] = "neoforge"
                                 v["versionRange"] = "[21.0,)"
                             if v["modId"] == "umapyoi":
-                                del v["versionRange"]
+                                v["versionRange"] = v["versionRange"].replace("-1.20.1", "-1.21.1")
                             mandatory = v.get("mandatory", True)
                             del v["mandatory"]
                             v["type"] = "required" if mandatory else "optional"
