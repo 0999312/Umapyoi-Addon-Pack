@@ -13,12 +13,12 @@
 			"bones": [
 				{
 					"name": "hat",
-					"pivot": [0, 24, 2]
+					"pivot": [0, 24, 0]
 				},
 				{
 					"name": "bone",
 					"parent": "hat",
-					"pivot": [0, 0, 2],
+					"pivot": [0, 24, 0],
 					"cubes": [
 						{
 							"origin": [-4, 24, -2],
